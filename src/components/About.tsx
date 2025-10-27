@@ -30,7 +30,7 @@ const About = () => {
                 <div className="flex items-start gap-3">
                   <Award className="text-primary mt-1 flex-shrink-0" size={24} />
                   <div>
-                    <h4 className="font-semibold text-foreground">10+ Years</h4>
+                    <h4 className="font-semibold text-foreground">3+ Years</h4>
                     <p className="text-sm text-muted-foreground">Clinical Experience</p>
                   </div>
                 </div>
