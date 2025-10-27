@@ -84,8 +84,15 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-border pt-8">
           <div className="text-center text-muted-foreground text-sm">
-            <p>&copy; {currentYear} Dr Ahbab Ahmad - Consultant Physiotherapist. All rights reserved.</p>
-            <p className="mt-2">Home Visit Services Only</p>
+        <p>© 2025 Dr Ahbab Ahmad – Consultant Physiotherapist. All rights reserved.</p>
+            <p>Home Visit Services Only</p>
+            <hr className="w-1/2 mx-auto my-3 border-gray-600" />
+               <p className="text-sm text-gray-400 mt-2">
+                For creating websites and portfolios like this – email me:{" "}
+               <a href="mailto:saquibawasi@gmail.com" className="text-white hover:underline">
+      saquibawasi@gmail.com
+    </a>
+  </p>
           </div>
         </div>
       </div>
